@@ -10,11 +10,11 @@ TeslaPredict is a data-driven project that leverages advanced time series models
 
 - **Predictive Models:** Utilizes ARIMA and SARIMAX models for accurate forecasting.
 - **Data Magic:** Unveils hidden patterns and trends in Tesla's stock data.
-- **GitHub Repository:** Find the code and contribute to the project on [GitHub](https://github.com/ShreyashSingh1/TeslaPredict).
+- **GitHub Repository:** Find the code and contribute to the project on [GitHub](https://github.com/ShreyashSingh1/DataSpark-Tesla.git).
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/yourusername/TeslaPredict.git`
+1. Clone the repository: `git clone https://github.com/ShreyashSingh1/DataSpark-Tesla.git`
 2. Explore the codebase and models.
 3. Run the notebooks to see the magic in action!
 
@@ -24,7 +24,7 @@ We welcome contributions! If you'd like to improve our models, discover new patt
 
 ## Support and Contact
 
-For questions, suggestions, or discussions, reach out to us on [GitHub Issues](https://github.com/ShreyashSingh1/TeslaPredict/issues).
+For questions, suggestions, or discussions, reach out to us on [GitHub Issues](https://github.com/ShreyashSingh1/DataSpark-Tesla/issues).
 
 Happy Forecasting!
 
